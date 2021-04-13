@@ -1,0 +1,24 @@
+{
+  "name": "practise-webpack",
+  "version": "1.0.0",
+  "description": "This is a practise repositorie to master my skills on webpack and there isn't better way to learning something if you do note practise.",
+  "private": true,
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diogenesdauster/practise-webpack.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diogenesdauster/practise-webpack/issues"
+  },
+  "homepage": "https://github.com/diogenesdauster/practise-webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.32.0",
+    "webpack-cli": "^4.6.0"
+  }
+}
