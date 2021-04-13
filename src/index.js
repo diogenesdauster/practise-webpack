@@ -1,7 +1,10 @@
+import _ from 'lodash';
+
+
 function component() {
   const element = document.createElement('div');
 
-  //Loadsh, currently included via a script, is required form this line to work
+  //Lodash, now imported by this script
   element.innerHTML = _.join(['Hello','webpack'], ' ');
 
   return element;
