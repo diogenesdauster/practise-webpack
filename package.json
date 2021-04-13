@@ -4,7 +4,8 @@
   "description": "This is a practise repositorie to master my skills on webpack and there isn't better way to learning something if you do note practise.",
   "private": true,
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "webpack"
   },
   "repository": {
     "type": "git",
